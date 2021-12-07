@@ -7,7 +7,9 @@ Custom dotnet webapi template.
     <li>Swagger Support</li>
 </ul>
 
-<h2>How to Run</h2>
+<h2>How to Install</h2>
 <ol>
+    <li>Run <code>dotnet new --install <path></code></li>
+    <p>For more commands type <code>dotnet new my-custom --help</code><p>
     <li>Run <code>dotnet restore</code></li>
 </ol>
